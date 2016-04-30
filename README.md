@@ -1,2 +1,2 @@
-# gwc_final_project
-gwc final project
+# Girls Who Code Final Project
+by addison and lucinda
